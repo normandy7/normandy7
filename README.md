@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Sabine! I work as a technical writer.
+- 👀 I'm interested in technical communication, documentation, education, localization, and linguistics.
+- 🌱 I'm currently learning JavaScript and MediaWiki.
+- 📫 You can connect with me on LinkedIn. To find me, try searching for `sabine technical communication specialist nokia`
