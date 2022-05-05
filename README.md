@@ -1,3 +1,3 @@
-- 👋 Hi, I'm Sabine! I work as a technical writer.
-- 👀 I'm interested in technical communication, documentation tools, data science, and localization.
+- 👋 Hi, I'm Sabine! I'm in charge of the docs at [Neptune.ai](https://github.com/neptune-ai).
+- 👀 I'm interested in technical communication, teaching, documentation tools, data science, and localization.
 - 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/sabine-nyholm/
